@@ -1,0 +1,17 @@
+dog-heading 0
+dog-tailing 1
+dog-lying 2
+dog-bodyshake 3
+dog-bodylower 4
+dog-footup 5
+dog-feetup 6
+dog-turn 7
+cat-heading 8
+cat-tailing 9
+cat-lying 10
+cat-roll 11
+cat-getdown 12
+cat-grooming 13
+cat-sitdown 14
+cat-footpush 15
+cat-arch 16
